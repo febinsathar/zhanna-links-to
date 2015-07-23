@@ -1,9 +1,12 @@
 # zhanna-links-to
 Links I consider useful.
 
+### Frontend theory
+* http://www.sitepoint.com/what-is-this-in-javascript/
+* http://www.2ality.com/2013/10/typeof-null.html
+ 
 ### Frontend world
 * http://forwebdev.ru/css/about-postcss/
-* http://www.2ality.com/2013/10/typeof-null.html
 
 ### GitHub
 * http://solutionoptimist.com/2013/12/28/awesome-github-tricks/ - Upload images to readme
