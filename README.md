@@ -23,6 +23,7 @@ Links I consider useful.
 ### GitHub
 * http://solutionoptimist.com/2013/12/28/awesome-github-tricks/ - Upload images to readme
 * https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+* https://help.github.com/articles/creating-project-pages-manually/
 
 ### Interview Questions
 * http://www.thatjsdude.com/interview/index.html
