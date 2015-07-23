@@ -9,6 +9,17 @@ Links I consider useful.
 ### Frontend world
 * http://forwebdev.ru/css/about-postcss/
 
+### Design
+* http://www.defringe.com
+* http://dtailstudio.com
+* https://www.iconfinder.com
+* http://flatuicolors.com
+* http://sarasoueidan.com/tools/circulus/
+* http://aerolab.github.io/booom/
+* http://thesquid.ink/flat-icons/
+* https://www.lumi.com
+* https://epicfavicongenerator.com
+
 ### GitHub
 * http://solutionoptimist.com/2013/12/28/awesome-github-tricks/ - Upload images to readme
 * https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
