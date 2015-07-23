@@ -2,6 +2,7 @@
 Links I consider useful.
 
 ### Frontend theory
+* https://ru.wikipedia.org/wiki/БЭМ
 * http://www.sitepoint.com/what-is-this-in-javascript/
 * http://www.2ality.com/2013/10/typeof-null.html
  
