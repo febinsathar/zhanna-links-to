@@ -41,6 +41,9 @@ Links I consider useful.
 * https://material.angularjs.org/latest/#/layout/grid
 * http://www.materialup.com
 * http://materialdesignblog.com/top-10-free-material-design-psd-templates-and-ui-kits/
+* http://192.185.228.226/projects/ma/v1-4-1/jQuery/calendar.html
+* http://triangular.oxygenna.com/#/dashboards/analytics
+* http://materializecss.com/getting-started.html
 
 ### Open-source projects
 * https://www.codemontage.com/
