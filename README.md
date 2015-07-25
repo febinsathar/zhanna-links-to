@@ -8,6 +8,7 @@ Links I consider useful.
  
 ### Frontend world
 * http://forwebdev.ru/css/about-postcss/
+* [Nested JSON object](http://plnkr.co/edit/snE9Em0tCKh0nUHIlTFn?p=preview) - displaying nested JSON object
 
 ### Design
 * http://www.defringe.com
