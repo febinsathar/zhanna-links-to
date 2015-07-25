@@ -40,6 +40,7 @@ Links I consider useful.
 * http://habrahabr.ru/post/247719/
 * https://material.angularjs.org/latest/#/layout/grid
 * http://www.materialup.com
+* http://materialdesignblog.com/top-10-free-material-design-psd-templates-and-ui-kits/
 
 ### Open-source projects
 * https://www.codemontage.com/
