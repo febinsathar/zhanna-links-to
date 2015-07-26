@@ -44,6 +44,7 @@ Links I consider useful.
 * http://192.185.228.226/projects/ma/v1-4-1/jQuery/calendar.html
 * http://triangular.oxygenna.com/#/dashboards/analytics
 * http://materializecss.com/getting-started.html
+* http://superdevresources.com/material-design-web-ui-frameworks/
 
 ### Open-source projects
 * https://www.codemontage.com/
