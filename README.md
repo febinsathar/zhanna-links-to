@@ -32,6 +32,7 @@ Links I consider useful.
 * https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
 ### Learning materials
+* https://www.hackerrank.com/
 * https://www.girldevelopit.com
 * http://webdesign.tutsplus.com/categories/kids
 
