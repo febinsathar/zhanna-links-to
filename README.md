@@ -56,3 +56,4 @@ Links I consider useful.
 * https://nodejs.org - install node
 * https://docs.npmjs.com/getting-started/installing-node - install npm
 * http://yeoman.io/learning/index.html - install bower, yeoman, grunt
+* http://git-scm.com/downloads - install git
