@@ -47,6 +47,7 @@ Links I consider useful.
 * http://materializecss.com/getting-started.html
 * http://materializecss.com/parallax-demo.html
 * http://superdevresources.com/material-design-web-ui-frameworks/
+* https://www.google.com/design/icons/ - material-icons
 
 ### Open-source projects
 * https://www.codemontage.com/
