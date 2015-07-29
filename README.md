@@ -60,3 +60,4 @@ Links I consider useful.
 * http://git-scm.com/downloads - install git
 * https://www.mongodb.org/downloads - install mongo
 * https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi/related?hl=en - perfect pixel
+* https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en - window resizer
