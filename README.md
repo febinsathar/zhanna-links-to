@@ -54,3 +54,4 @@ Links I consider useful.
 ### Toolset
 * http://pdfcrowd.com - HTML to PDF
 * https://nodejs.org - install node
+* https://docs.npmjs.com/getting-started/installing-node - install npm
