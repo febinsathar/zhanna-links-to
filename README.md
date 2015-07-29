@@ -59,3 +59,4 @@ Links I consider useful.
 * http://yeoman.io/learning/index.html - install bower, yeoman, grunt
 * http://git-scm.com/downloads - install git
 * https://www.mongodb.org/downloads - install mongo
+* https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi/related?hl=en - perfect pixel
