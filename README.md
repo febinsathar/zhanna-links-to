@@ -55,3 +55,4 @@ Links I consider useful.
 * http://pdfcrowd.com - HTML to PDF
 * https://nodejs.org - install node
 * https://docs.npmjs.com/getting-started/installing-node - install npm
+* http://yeoman.io/learning/index.html - install bower, yeoman, grunt
