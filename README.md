@@ -30,6 +30,13 @@ Links I consider useful.
 ### Interview Questions
 * http://www.thatjsdude.com/interview/index.html
 * https://github.com/h5bp/Front-end-Developer-Interview-Questions
+* http://www.codeproject.com/Articles/618484/Latest-jQuery-interview-questions-and-answers
+* http://www.toptal.com/jquery/interview-questions
+* http://javarevisited.blogspot.ru/2015/02/top-16-jquery-interview-questions.html
+* http://career.guru99.com/top-50-jquery-interview-questions/
+* https://en.wikipedia.org/wiki/MD5
+* http://www.htmlgoodies.com/html5/tutorials/Web-Developer-Basics-Differences-Between-HTML4-And-HTML5-3921271.htm#fbid=fPE2SPXui8Q
+* 
 
 ### Learning materials
 * https://www.hackerrank.com/
