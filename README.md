@@ -46,9 +46,11 @@ Links I consider useful.
 * http://materializecss.com/parallax-demo.html
 * http://superdevresources.com/material-design-web-ui-frameworks/
 * http://triangular.oxygenna.com/#/dashboards/analytics
+* http://www.google.com/design/spec/material-design/introduction.html
 * http://www.materialup.com
 * https://material.angularjs.org/latest/#/layout/grid
 * https://www.google.com/design/icons/ - material-icons
+
 
 
 ### Open-source projects
