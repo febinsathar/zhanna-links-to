@@ -49,7 +49,7 @@ Links I consider useful.
 * http://www.google.com/design/spec/material-design/introduction.html
 * http://www.materialup.com
 * https://github.com/angular/bower-material - bower install angular-material
-* https://material.angularjs.org/latest/#/layout/grid 
+* https://material.angularjs.org/latest/ - angular-material
 * https://www.google.com/design/icons/ - material-icons
 
 
