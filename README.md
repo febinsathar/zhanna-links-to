@@ -48,7 +48,8 @@ Links I consider useful.
 * http://triangular.oxygenna.com/#/dashboards/analytics
 * http://www.google.com/design/spec/material-design/introduction.html
 * http://www.materialup.com
-* https://material.angularjs.org/latest/#/layout/grid
+* https://github.com/angular/bower-material - bower install angular-material
+* https://material.angularjs.org/latest/#/layout/grid 
 * https://www.google.com/design/icons/ - material-icons
 
 
