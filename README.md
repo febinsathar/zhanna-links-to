@@ -40,6 +40,8 @@ Links I consider useful.
 * http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/
 * http://www.w3schools.com/js/js_objects.asp
 * http://stackoverflow.com/questions/14569320/simulating-button-click-in-javascript
+* https://github.com/andyshora/front-end-interview-questions
+* https://github.com/GingerBear/Front-end-Developer-Interview-Questions-QA/tree/master/CSS
 
 ### Learning materials
 * https://www.hackerrank.com/
