@@ -39,6 +39,7 @@ Links I consider useful.
 * http://webdesign.about.com/od/css3/a/differences-css2-css3.htm
 * http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/
 * http://www.w3schools.com/js/js_objects.asp
+* http://stackoverflow.com/questions/14569320/simulating-button-click-in-javascript
 
 ### Learning materials
 * https://www.hackerrank.com/
