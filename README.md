@@ -36,7 +36,7 @@ Links I consider useful.
 * http://career.guru99.com/top-50-jquery-interview-questions/
 * https://en.wikipedia.org/wiki/MD5
 * http://www.htmlgoodies.com/html5/tutorials/Web-Developer-Basics-Differences-Between-HTML4-And-HTML5-3921271.htm#fbid=fPE2SPXui8Q
-* 
+* http://webdesign.about.com/od/css3/a/differences-css2-css3.htm
 
 ### Learning materials
 * https://www.hackerrank.com/
