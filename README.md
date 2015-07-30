@@ -37,6 +37,8 @@ Links I consider useful.
 * https://en.wikipedia.org/wiki/MD5
 * http://www.htmlgoodies.com/html5/tutorials/Web-Developer-Basics-Differences-Between-HTML4-And-HTML5-3921271.htm#fbid=fPE2SPXui8Q
 * http://webdesign.about.com/od/css3/a/differences-css2-css3.htm
+* http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/
+* http://www.w3schools.com/js/js_objects.asp
 
 ### Learning materials
 * https://www.hackerrank.com/
