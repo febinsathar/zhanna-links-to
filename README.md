@@ -37,17 +37,19 @@ Links I consider useful.
 * http://webdesign.tutsplus.com/categories/kids
 
 ### Material Design
+* http://192.185.228.226/projects/ma/v1-4-1/jQuery/calendar.html
 * http://altair.tzdthemes.com/page_invoices.html
 * http://habrahabr.ru/post/247719/
-* https://material.angularjs.org/latest/#/layout/grid
-* http://www.materialup.com
+* http://krescruz.github.io/angular-materialize/
 * http://materialdesignblog.com/top-10-free-material-design-psd-templates-and-ui-kits/
-* http://192.185.228.226/projects/ma/v1-4-1/jQuery/calendar.html
-* http://triangular.oxygenna.com/#/dashboards/analytics
 * http://materializecss.com/getting-started.html
 * http://materializecss.com/parallax-demo.html
 * http://superdevresources.com/material-design-web-ui-frameworks/
+* http://triangular.oxygenna.com/#/dashboards/analytics
+* http://www.materialup.com
+* https://material.angularjs.org/latest/#/layout/grid
 * https://www.google.com/design/icons/ - material-icons
+
 
 ### Open-source projects
 * https://www.codemontage.com/
