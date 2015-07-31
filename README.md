@@ -8,6 +8,7 @@ Links I consider useful.
 * http://habrahabr.ru/post/149082/ - JS free books
 * http://javascriptbook.com
 * http://www.sitepoint.com/top-10-free-jquery-ebooks/ - Top free jQuery ebooks
+* http://readwrite.com/2010/12/04/6-free-javascript-e-books - Free JS ebooks and tutorials
 
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
