@@ -1,6 +1,9 @@
 # zhanna-links-to
 Links I consider useful.
 
+### Books
+* http://jsbooks.revolunet.com
+
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
 * http://www.sitepoint.com/what-is-this-in-javascript/
