@@ -2,7 +2,12 @@
 Links I consider useful.
 
 ### Books
-* http://jsbooks.revolunet.com
+* http://jsbooks.revolunet.com - JS free books
+* http://habrahabr.ru/company/mailru/blog/248733/ - 2014 JS books
+* http://jqfundamentals.com/chapter/javascript-basics - jQuery fundamentals
+* http://habrahabr.ru/post/149082/ - JS free books
+* http://javascriptbook.com
+* http://www.sitepoint.com/top-10-free-jquery-ebooks/ - Top free jQuery ebooks
 
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
