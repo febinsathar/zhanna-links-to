@@ -72,6 +72,7 @@ Links I consider useful.
 * https://github.com/angular/bower-material - bower install angular-material
 * https://material.angularjs.org/latest/ - angular-material
 * https://www.google.com/design/icons/ - material-icons
+* http://codepen.io/mzbyszynski/pen/aOEQJX - lock side bar
 
 
 
