@@ -92,3 +92,5 @@ Links I consider useful.
 ### Videos
 * https://www.codeschool.com/paths/javascript - JavaScript Code School
 * https://www.codeschool.com/courses/try-jquery - jQuery Code School
+* https://www.codeschool.com/paths/html-css - HTML and CSS Code School
+* https://www.codeschool.com/paths/git - Git Code School
