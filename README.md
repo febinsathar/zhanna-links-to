@@ -88,3 +88,7 @@ Links I consider useful.
 * https://www.mongodb.org/downloads - install mongo
 * https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi/related?hl=en - perfect pixel
 * https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en - window resizer
+
+### Videos
+* https://www.codeschool.com/paths/javascript - JavaScript Code School
+* https://www.codeschool.com/courses/try-jquery - jQuery Code School
