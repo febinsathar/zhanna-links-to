@@ -19,6 +19,11 @@ Links I consider useful.
 * http://www.sitepoint.com/what-is-this-in-javascript/
 * http://www.2ality.com/2013/10/typeof-null.html
 * http://learn.javascript.ru/ - Ilya Kantor JavaScript book
+* http://javascriptissexy.com/javascript-objects-in-detail/ - JavaScript Objects
+* http://javascriptissexy.com/how-to-learn-javascript-properly/ - How to learn JavaScript properly
+* http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/ - JavaScript variable scope and hoisting
+* http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/ - this in JavaScript
+* 
  
 ### Frontend world
 * http://forwebdev.ru/css/about-postcss/
