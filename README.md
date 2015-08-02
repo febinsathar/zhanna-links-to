@@ -101,6 +101,7 @@ Links I consider useful.
 * https://www.mongodb.org/downloads - install mongo
 * https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi/related?hl=en - perfect pixel
 * https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en - window resizer
+* https://www.youtube.com/watch?v=LrM1r23bBxs&list=PL363QX7S8MfQX-3XeU5otz2-xysax1Z5R - Sublime editor review
 
 ### Videos
 * https://www.codeschool.com/paths/javascript - JavaScript Code School
