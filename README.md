@@ -23,7 +23,8 @@ Links I consider useful.
 * http://javascriptissexy.com/how-to-learn-javascript-properly/ - How to learn JavaScript properly
 * http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/ - JavaScript variable scope and hoisting
 * http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/ - this in JavaScript
-* 
+* http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/ - OOP in JavaScript
+* http://javascriptissexy.com/learn-backbone-js-completely/ - Learn backbone
  
 ### Frontend world
 * http://forwebdev.ru/css/about-postcss/
