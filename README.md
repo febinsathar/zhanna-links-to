@@ -10,6 +10,10 @@ Links I consider useful.
 * http://www.sitepoint.com/top-10-free-jquery-ebooks/ - Top free jQuery ebooks
 * http://readwrite.com/2010/12/04/6-free-javascript-e-books - Free JS ebooks and tutorials
 
+### Documentation
+* https://api.jquery.com - jQuery documentation
+
+
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
 * http://www.sitepoint.com/what-is-this-in-javascript/
@@ -58,6 +62,7 @@ Links I consider useful.
 * https://www.hackerrank.com/
 * https://www.girldevelopit.com
 * http://webdesign.tutsplus.com/categories/kids
+
 
 ### Material Design
 * http://192.185.228.226/projects/ma/v1-4-1/jQuery/calendar.html
