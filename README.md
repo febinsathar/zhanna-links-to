@@ -94,3 +94,4 @@ Links I consider useful.
 * https://www.codeschool.com/courses/try-jquery - jQuery Code School
 * https://www.codeschool.com/paths/html-css - HTML and CSS Code School
 * https://www.codeschool.com/paths/git - Git Code School
+* http://code.tutsplus.com/courses/30-days-to-learn-jquery - tutsplus jQuery
