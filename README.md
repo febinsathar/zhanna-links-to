@@ -86,6 +86,8 @@ Links I consider useful.
 * https://material.angularjs.org/latest/ - angular-material
 * https://www.google.com/design/icons/ - material-icons
 * http://codepen.io/mzbyszynski/pen/aOEQJX - lock side bar
+* https://www.materialup.com/posts/angular-material-design-starte - Angular Material Search Form
+* http://codepen.io/jbltx/pen/WbdRRb - Angular Material Table Search form
 
 
 
