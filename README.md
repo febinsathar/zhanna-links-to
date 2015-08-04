@@ -89,6 +89,7 @@ Links I consider useful.
 * https://www.materialup.com/posts/angular-material-design-starte - Angular Material Search Form
 * http://codepen.io/jbltx/pen/WbdRRb - Angular Material Table Search form
 * https://github.com/mobinni/material-date-picker - Material Date Picker
+* http://www.google.com/design/spec/style/color.html#color-color-palette - Color Palette
 
 
 
