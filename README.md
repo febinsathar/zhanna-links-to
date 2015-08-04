@@ -88,6 +88,7 @@ Links I consider useful.
 * http://codepen.io/mzbyszynski/pen/aOEQJX - lock side bar
 * https://www.materialup.com/posts/angular-material-design-starte - Angular Material Search Form
 * http://codepen.io/jbltx/pen/WbdRRb - Angular Material Table Search form
+* https://github.com/mobinni/material-date-picker - Material Date Picker
 
 
 
@@ -104,6 +105,7 @@ Links I consider useful.
 * https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi/related?hl=en - perfect pixel
 * https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en - window resizer
 * https://www.youtube.com/watch?v=LrM1r23bBxs&list=PL363QX7S8MfQX-3XeU5otz2-xysax1Z5R - Sublime editor review
+* https://github.com/moment/moment/blob/develop/locale/ru.js - moment.js localisation
 
 ### Videos
 * https://www.codeschool.com/paths/javascript - JavaScript Code School
