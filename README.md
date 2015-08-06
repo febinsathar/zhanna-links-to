@@ -108,6 +108,7 @@ Links I consider useful.
 * https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en - window resizer
 * https://www.youtube.com/watch?v=LrM1r23bBxs&list=PL363QX7S8MfQX-3XeU5otz2-xysax1Z5R - Sublime editor review
 * https://github.com/moment/moment/blob/develop/locale/ru.js - moment.js localisation
+* http://kb.tableau.com/articles/knowledgebase/displaying-scroll-bar - displaying scroll bar on mac 
 
 ### Videos
 * https://www.codeschool.com/paths/javascript - JavaScript Code School
