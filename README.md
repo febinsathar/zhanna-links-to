@@ -121,3 +121,4 @@ Links I consider useful.
 * https://www.codeschool.com/paths/git - Git Code School
 * http://code.tutsplus.com/courses/30-days-to-learn-jquery - tutsplus jQuery
 * https://code.tutsplus.com/courses/30-days-to-learn-jquery/lessons/creating-and-appending-content
+* https://www.youtube.com/watch?v=tfSiXRy1vEw - Material Design introduction by Google
