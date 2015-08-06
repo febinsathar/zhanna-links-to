@@ -90,6 +90,7 @@ Links I consider useful.
 * http://codepen.io/jbltx/pen/WbdRRb - Angular Material Table Search form
 * https://github.com/mobinni/material-date-picker - Material Date Picker
 * http://www.google.com/design/spec/style/color.html#color-color-palette - Color Palette
+* http://ui.lumapps.com/directives/date-picker - Angular Material Datepicker
 
 
 
