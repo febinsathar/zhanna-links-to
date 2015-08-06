@@ -1,6 +1,9 @@
 # zhanna-links-to
 Links I consider useful.
 
+### Blogs
+* http://mindaboutjs.com/
+
 ### Books
 * http://jsbooks.revolunet.com - JS free books
 * http://habrahabr.ru/company/mailru/blog/248733/ - 2014 JS books
