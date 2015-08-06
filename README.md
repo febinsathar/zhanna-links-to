@@ -35,6 +35,7 @@ Links I consider useful.
 * http://javascriptissexy.com/how-to-learn-javascript-properly/ - How to learn JavaScript
 
 ### Design
+* https://www.google.com/design/
 * http://www.defringe.com
 * https://dribbble.com
 * http://dtailstudio.com
@@ -94,6 +95,7 @@ Links I consider useful.
 * https://github.com/mobinni/material-date-picker - Material Date Picker
 * http://www.google.com/design/spec/style/color.html#color-color-palette - Color Palette
 * http://ui.lumapps.com/directives/date-picker - Angular Material Datepicker
+
 
 
 
