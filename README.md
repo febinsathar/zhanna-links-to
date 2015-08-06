@@ -115,6 +115,7 @@ Links I consider useful.
 * https://github.com/moment/moment/blob/develop/locale/ru.js - moment.js localisation
 * http://kb.tableau.com/articles/knowledgebase/displaying-scroll-bar - displaying scroll bar on mac 
 * http://lorempixel.com/ - random images generator
+* https://www.polymer-project.org/1.0/docs/devguide/local-dom.html - Polymer for Material Design
 
 ### Videos
 * https://www.codeschool.com/paths/javascript - JavaScript Code School
