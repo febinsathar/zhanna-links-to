@@ -16,6 +16,8 @@ Links I consider useful.
 ### Documentation
 * https://api.jquery.com - jQuery documentation
 
+### Free time reading
+
 
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
