@@ -21,6 +21,7 @@ http://www.smashingmagazine.com/
 http://siliconrus.com/
 http://thenextweb.com/
 https://medium.com
+http://techcrunch.com/
 
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
