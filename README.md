@@ -1,5 +1,4 @@
-# zhanna-links-to
-Links I consider useful.
+## zhanna-links-to
 
 ### Blogs
 * http://mindaboutjs.com/
@@ -17,7 +16,11 @@ Links I consider useful.
 * https://api.jquery.com - jQuery documentation
 
 ### Free time reading
-
+https://tjournal.ru
+http://www.smashingmagazine.com/
+http://siliconrus.com/
+http://thenextweb.com/
+https://medium.com
 
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
@@ -118,6 +121,7 @@ Links I consider useful.
 * http://kb.tableau.com/articles/knowledgebase/displaying-scroll-bar - displaying scroll bar on mac 
 * http://lorempixel.com/ - random images generator
 * https://www.polymer-project.org/1.0/docs/devguide/local-dom.html - Polymer for Material Design
+* https://toggl.com/features - Tool for time tracking
 
 ### Videos
 * https://www.codeschool.com/paths/javascript - JavaScript Code School
