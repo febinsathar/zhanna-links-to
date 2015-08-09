@@ -123,6 +123,8 @@ http://techcrunch.com/
 * http://lorempixel.com/ - random images generator
 * https://www.polymer-project.org/1.0/docs/devguide/local-dom.html - Polymer for Material Design
 * https://toggl.com/features - Tool for time tracking
+* http://www.zvirec.com/ - How to create website
+* http://timeweb.com/ru/ - Register hosting
 
 ### Videos
 * https://www.codeschool.com/paths/javascript - JavaScript Code School
