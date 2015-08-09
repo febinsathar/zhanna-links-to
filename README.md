@@ -16,14 +16,14 @@
 * https://api.jquery.com - jQuery documentation
 
 ### Free time reading
-https://tjournal.ru
-http://www.smashingmagazine.com/
-http://siliconrus.com/
-http://thenextweb.com/
-https://medium.com
-http://techcrunch.com/
-http://www.inc.com/
-https://www.quora.com/
+* https://tjournal.ru
+* http://www.smashingmagazine.com/
+* http://siliconrus.com/
+* http://thenextweb.com/
+* https://medium.com
+* http://techcrunch.com/
+* http://www.inc.com/
+* https://www.quora.com/
 
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
