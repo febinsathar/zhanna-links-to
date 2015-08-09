@@ -22,6 +22,8 @@ http://siliconrus.com/
 http://thenextweb.com/
 https://medium.com
 http://techcrunch.com/
+http://www.inc.com/
+https://www.quora.com/
 
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
