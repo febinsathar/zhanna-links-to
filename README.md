@@ -12,6 +12,22 @@
 * http://www.sitepoint.com/top-10-free-jquery-ebooks/ - Top free jQuery ebooks
 * http://readwrite.com/2010/12/04/6-free-javascript-e-books - Free JS ebooks and tutorials
 
+### Design
+* https://www.google.com/design/
+* http://www.defringe.com
+* https://dribbble.com
+* http://dtailstudio.com
+* https://www.iconfinder.com
+* http://flatuicolors.com
+* http://sarasoueidan.com/tools/circulus/
+* http://aerolab.github.io/booom/
+* http://thesquid.ink/flat-icons/
+* https://www.lumi.com
+* https://epicfavicongenerator.com
+* https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda - UI advices Part 1
+* https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96 - UI advices Part 2
+
+
 ### Documentation
 * https://api.jquery.com - jQuery documentation
 
@@ -41,21 +57,6 @@
 * http://forwebdev.ru/css/about-postcss/
 * [Nested JSON object](http://plnkr.co/edit/snE9Em0tCKh0nUHIlTFn?p=preview) - displaying nested JSON object
 * http://javascriptissexy.com/how-to-learn-javascript-properly/ - How to learn JavaScript
-
-### Design
-* https://www.google.com/design/
-* http://www.defringe.com
-* https://dribbble.com
-* http://dtailstudio.com
-* https://www.iconfinder.com
-* http://flatuicolors.com
-* http://sarasoueidan.com/tools/circulus/
-* http://aerolab.github.io/booom/
-* http://thesquid.ink/flat-icons/
-* https://www.lumi.com
-* https://epicfavicongenerator.com
-* https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda - UI advices Part 1
-* https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96 - UI advices Part 2
 
 ### GitHub
 * http://solutionoptimist.com/2013/12/28/awesome-github-tricks/ - Upload images to readme
