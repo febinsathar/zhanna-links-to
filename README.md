@@ -54,6 +54,8 @@
 * http://thesquid.ink/flat-icons/
 * https://www.lumi.com
 * https://epicfavicongenerator.com
+* https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda - UI advices Part 1
+* https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96 - UI advices Part 2
 
 ### GitHub
 * http://solutionoptimist.com/2013/12/28/awesome-github-tricks/ - Upload images to readme
