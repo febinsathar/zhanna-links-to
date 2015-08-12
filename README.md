@@ -106,6 +106,8 @@
 * https://github.com/mobinni/material-date-picker - Material Date Picker
 * http://www.google.com/design/spec/style/color.html#color-color-palette - Color Palette
 * http://ui.lumapps.com/directives/date-picker - Angular Material Datepicker
+* http://vitalets.github.io/angular-xeditable/ - Editable forms
+* http://angular-formly.com/#/example/bootstrap-specific/advanced-layout - Angular forms
 
 
 
