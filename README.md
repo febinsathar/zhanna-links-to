@@ -109,6 +109,7 @@
 * http://ui.lumapps.com/directives/date-picker - Angular Material Datepicker
 * http://vitalets.github.io/angular-xeditable/ - Editable forms
 * http://angular-formly.com/#/example/bootstrap-specific/advanced-layout - Angular forms
+* https://github.com/oblador/angular-scroll - angular scroll (has some problems with ui-view)
 
 
 
