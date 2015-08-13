@@ -110,6 +110,8 @@
 * http://vitalets.github.io/angular-xeditable/ - Editable forms
 * http://angular-formly.com/#/example/bootstrap-specific/advanced-layout - Angular forms
 * https://github.com/oblador/angular-scroll - angular scroll (has some problems with ui-view)
+* http://www.keenthemes.com/preview/metronic/theme/templates/admin2_material_design/form_controls_md.html - material design form controls
+* http://real-estate.aws.ipv4.ro/angular/index.html#/discover/map-full - material design admin example
 
 
 
