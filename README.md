@@ -112,6 +112,7 @@
 * https://github.com/oblador/angular-scroll - angular scroll (has some problems with ui-view)
 * http://www.keenthemes.com/preview/metronic/theme/templates/admin2_material_design/form_controls_md.html - material design form controls
 * http://real-estate.aws.ipv4.ro/angular/index.html#/discover/map-full - material design admin example
+* http://stackoverflow.com/a/26078888/3941146 - add div to prevent changing paddings when transition is added
 
 
 
