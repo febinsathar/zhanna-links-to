@@ -26,6 +26,7 @@
 * https://epicfavicongenerator.com
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda - UI advices Part 1
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96 - UI advices Part 2
+* http://demosthenes.info/blog/61/An-Easy-Guide-To-HSL-Color-In-CSS3 - HSL colors
 
 
 ### Documentation
