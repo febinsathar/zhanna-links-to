@@ -41,6 +41,7 @@
 * http://techcrunch.com/
 * http://www.inc.com/
 * https://www.quora.com/
+* http://calnewport.com/blog/2010/01/06/the-grandmaster-in-the-corner-office-what-the-study-of-chess-experts-teaches-us-about-building-a-remarkable-life/ - 10000 hours rule
 
 ### Frontend theory
 * https://ru.wikipedia.org/wiki/БЭМ
