@@ -27,6 +27,9 @@
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda - UI advices Part 1
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96 - UI advices Part 2
 * http://demosthenes.info/blog/61/An-Easy-Guide-To-HSL-Color-In-CSS3 - HSL colors
+* https://color.adobe.com/ru/create/color-wheel/ - color wheel
+* https://dribbble.com/colors/BADA55 - Browse images by color
+* http://ianstormtaylor.com/design-tip-never-use-black/ - About using black
 
 
 ### Documentation
