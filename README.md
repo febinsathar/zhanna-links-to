@@ -57,6 +57,7 @@
 * http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/ - this in JavaScript
 * http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/ - OOP in JavaScript
 * http://javascriptissexy.com/learn-backbone-js-completely/ - Learn backbone
+* https://css-tricks.com/dangers-stopping-event-propagation/ - The dangers of event propagation
  
 ### Frontend world
 * http://forwebdev.ru/css/about-postcss/
