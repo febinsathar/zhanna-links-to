@@ -62,6 +62,7 @@
 * http://forwebdev.ru/css/about-postcss/
 * [Nested JSON object](http://plnkr.co/edit/snE9Em0tCKh0nUHIlTFn?p=preview) - displaying nested JSON object
 * http://javascriptissexy.com/how-to-learn-javascript-properly/ - How to learn JavaScript
+* http://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/ - How to become a great frontend engineer
 
 ### GitHub
 * http://solutionoptimist.com/2013/12/28/awesome-github-tricks/ - Upload images to readme
