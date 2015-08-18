@@ -145,6 +145,7 @@
 * https://toggl.com/features - Tool for time tracking
 * http://www.zvirec.com/ - How to create website
 * http://timeweb.com/ru/ - Register hosting
+* http://tornado.readthedocs.org/en/latest/template.html - Tornado template system
 
 ### Videos
 * https://www.codeschool.com/paths/javascript - JavaScript Code School
