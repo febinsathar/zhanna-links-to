@@ -58,6 +58,7 @@
 * http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/ - OOP in JavaScript
 * http://javascriptissexy.com/learn-backbone-js-completely/ - Learn backbone
 * https://css-tricks.com/dangers-stopping-event-propagation/ - The dangers of event propagation
+* http://www.benlesh.com/2013/03/angular-js-validating-form-elements-in.html - Validating nested forms
  
 ### Frontend world
 * http://forwebdev.ru/css/about-postcss/
