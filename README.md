@@ -129,6 +129,7 @@
 
 ### Open-source projects
 * https://www.codemontage.com/
+* http://jsfiddle.net/dmLeu020/1/ - Angular audio player
 
 ### Toolset
 * http://pdfcrowd.com - HTML to PDF
