@@ -60,6 +60,7 @@
 * http://javascriptissexy.com/learn-backbone-js-completely/ - Learn backbone
 * https://css-tricks.com/dangers-stopping-event-propagation/ - The dangers of event propagation
 * http://www.benlesh.com/2013/03/angular-js-validating-form-elements-in.html - Validating nested forms
+* http://stackoverflow.com/questions/20049261/sce-trustasresourceurl-globally - cross-domain policy
  
 ### Frontend world
 * http://forwebdev.ru/css/about-postcss/
