@@ -61,6 +61,8 @@
 * https://css-tricks.com/dangers-stopping-event-propagation/ - The dangers of event propagation
 * http://www.benlesh.com/2013/03/angular-js-validating-form-elements-in.html - Validating nested forms
 * http://stackoverflow.com/questions/20049261/sce-trustasresourceurl-globally - cross-domain policy
+* http://stackoverflow.com/a/15486106/3941146 - using `load()` after changing audio source
+* http://stackoverflow.com/a/16066306 - using `apply()` in the end of event handler in angular
  
 ### Frontend world
 * http://forwebdev.ru/css/about-postcss/
