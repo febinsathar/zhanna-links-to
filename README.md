@@ -77,6 +77,11 @@
 * http://stackoverflow.com/a/5751588/3941146 - check which is the version of the repository and set new name of the repository if it was changed
 * https://github.com/tulov/angular-yandex-map - Yandex map for AngularJS
 
+
+### Interesting ideas for applications
+* http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/
+* 
+
 ### Interview Questions
 * http://www.thatjsdude.com/interview/index.html
 * https://github.com/h5bp/Front-end-Developer-Interview-Questions
