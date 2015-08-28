@@ -78,9 +78,9 @@
 * https://github.com/tulov/angular-yandex-map - Yandex map for AngularJS
 
 
-### Interesting ideas for applications
+### Interesting ideas for applications and sites
 * http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/
-* 
+* http://barcelona-tourism.habidatum.com/ 
 
 ### Interview Questions
 * http://www.thatjsdude.com/interview/index.html
