@@ -138,6 +138,10 @@
 ### Open-source projects
 * https://www.codemontage.com/
 * http://jsfiddle.net/dmLeu020/1/ - Angular audio player
+* 
+
+### Stackoverflow
+* http://stackoverflow.com/a/12947538/3941146 - Change icon size
 
 ### Toolset
 * http://pdfcrowd.com - HTML to PDF
@@ -158,6 +162,7 @@
 * http://timeweb.com/ru/ - Register hosting
 * http://tornado.readthedocs.org/en/latest/template.html - Tornado template system
 * http://www.tinymce.com/ - online text editting tool
+* 
 
 ### Videos
 * https://www.codeschool.com/paths/javascript - JavaScript Code School
