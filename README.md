@@ -1,5 +1,8 @@
 ## zhanna-links-to
 
+### Assignment
+* https://drive.google.com/file/d/0B_TFe23BCZ8kVnZJNXg1a2ZHNVk/view
+
 ### Blogs
 * http://mindaboutjs.com/
 
