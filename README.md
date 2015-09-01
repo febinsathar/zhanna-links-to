@@ -51,6 +51,7 @@
 * http://calnewport.com/blog/2010/01/06/the-grandmaster-in-the-corner-office-what-the-study-of-chess-experts-teaches-us-about-building-a-remarkable-life/ - 10000 hours rule
 
 ### Frontend theory
+* https://zyan.scripts.mit.edu/blog/backdooring-js/ - minification
 * https://ru.wikipedia.org/wiki/БЭМ
 * http://www.sitepoint.com/what-is-this-in-javascript/
 * http://www.2ality.com/2013/10/typeof-null.html
