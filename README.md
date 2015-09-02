@@ -107,6 +107,10 @@
 * https://github.com/andyshora/front-end-interview-questions
 * https://github.com/GingerBear/Front-end-Developer-Interview-Questions-QA/tree/master/CSS
 
+### Issues
+* https://github.com/handsontable/handsontable/issues/2080#issuecomment-136995976
+* 
+
 ### Learning materials
 * https://www.hackerrank.com/
 * https://www.girldevelopit.com
@@ -148,6 +152,8 @@
 * https://www.codemontage.com/
 * http://jsfiddle.net/dmLeu020/1/ - Angular audio player
 * 
+
+
 
 ### Stackoverflow
 * http://stackoverflow.com/a/12947538/3941146 - Change icon size
