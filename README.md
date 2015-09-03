@@ -87,6 +87,7 @@
 * https://github.com/tulov/angular-yandex-map - Yandex map for AngularJS
 
 
+
 ### Interesting ideas for applications and sites
 * http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/
 * http://barcelona-tourism.habidatum.com/ 
@@ -157,6 +158,7 @@
 
 ### Stackoverflow
 * http://stackoverflow.com/a/12947538/3941146 - Change icon size
+* http://stackoverflow.com/a/22605906/3941146 - Show modal window e.preventDefault error
 
 ### Toolset
 * http://pdfcrowd.com - HTML to PDF
